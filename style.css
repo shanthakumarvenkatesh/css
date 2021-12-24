@@ -9,6 +9,7 @@ b, span, i{
 }
 a{
     text-decoration: none;
+    background-color: yellow;
 }
 p{
     color: chocolate;
@@ -19,7 +20,4 @@ ol{
 ul{
     word-spacing: 8px;
     letter-spacing: 4px;
-}
-i{
-    background-color: yellow;
 }
