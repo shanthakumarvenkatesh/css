@@ -1,0 +1,22 @@
+h1, h2{
+    color: tomato;
+}
+li{
+    color: brown;
+}
+b, span{
+    background-color: chartreuse;
+}
+a{
+    text-decoration: none;
+}
+p{
+    color: chocolate;
+}
+ol{
+    line-height: 40px;
+}
+ul{
+    word-spacing: 8px;
+    letter-spacing: 4px;
+}
