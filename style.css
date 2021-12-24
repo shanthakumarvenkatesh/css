@@ -4,7 +4,7 @@ h1, h2{
 li{
     color: brown;
 }
-b, span{
+b, span, i{
     background-color: chartreuse;
 }
 a{
